@@ -1,0 +1,13 @@
+body{
+    text-align:center;
+}
+#video
+{
+width: 50%;
+height: 500px;
+border: none;
+}
+h1
+{
+color: aquamarine;
+}
